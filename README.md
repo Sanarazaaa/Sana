@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👩‍🔬 Biomedical Engineer passionate about coding and technical writing.
-🖥️ Skilled in Python, SPSS, Google Colab, GitHub, and more.
-🧠 Focused on integrating biomedical technology with software development to solve real-world problems.
-🔬 Interested in advanced research in biomedical data analysis and healthcare technology.
+👩‍🔬 Biomedical Engineer passionate about coding and technical writing.<br>
+🖥️ Skilled in Python, SPSS, Google Colab, GitHub, and more.<br>
+🧠 Focused on integrating biomedical technology with software development to solve real-world problems.<br>
+🔬 Interested in advanced research in biomedical data analysis and healthcare technology.<br>
 
 
 
