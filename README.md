@@ -2,9 +2,10 @@
 
 👩‍🔬 I am  a Biomedical Engineer who is passionate about coding. <br>
 🖥️ I am currently learning Python (brushing up on SPSS and R language skills).<br>
-🧠 Focused on integrating biomedical technology with software development to solve real-world problems.<br>
-🔬 Interested in advanced research in biomedical data analysis and healthcare technology.<be>
+🧠 Focused on integrating biomedical technology with software development to solve real-world problems.<be>
 ✨ Love to break down technical topics in easy-to-understand language (I am a technical writer)<br>
+🔬 Interested in advanced research in biomedical data analysis and healthcare technology.<be>
+
 
 
 
