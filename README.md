@@ -1,5 +1,9 @@
 # 💫 About Me:
-Python
+👩‍🔬 Biomedical Engineer passionate about coding and technical writing.
+🖥️ Skilled in Python, SPSS, Google Colab, GitHub, and more.
+🧠 Focused on integrating biomedical technology with software development to solve real-world problems.
+🔬 Interested in advanced research in biomedical data analysis and healthcare technology.
+🎓 Seeking to contribute to groundbreaking research in a fully-funded graduate program.
 
 
 ## 🌐 Socials:
@@ -11,9 +15,6 @@ Python
 ![](https://github-readme-stats.vercel.app/api?username=Sanarazaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanarazaaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanarazaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanarazaaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanarazaaa&icon=0&color=0)](https://visitcount.itsvg.in)
